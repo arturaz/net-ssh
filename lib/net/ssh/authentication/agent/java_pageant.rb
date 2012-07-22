@@ -1,4 +1,4 @@
-require 'jruby_pageant'
+require 'jruby-pageant'
 
 module Net; module SSH; module Authentication
 
